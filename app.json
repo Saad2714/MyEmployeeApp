@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MyEmployeeApp",
-    "slug": "MyEmployeeApp",
+    "name": "Salary App",
+    "slug": "reduxemployee",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
